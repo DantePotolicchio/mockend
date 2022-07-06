@@ -19,6 +19,6 @@
         "three"
       ]
     },
-    "thingId": { "int": { "min": 1, "max": 100 } } }
+    "thingId": { "int": { "min": 1, "max": 100 } }
   }
 }
